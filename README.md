@@ -21,7 +21,7 @@ In progress
 - [] Day 12
 - [] Day 13
 - [] Day 14
-###INTERMEDIATE
+### INTERMEDIATE
 - [] Day 15
 - [] Day 16
 - [] Day 17
